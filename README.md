@@ -1,59 +1,69 @@
-### Hi there, I'm Tewodros Anteneh! 👋
+<h1 align="center">Hi 👋, I'm Tewodros Anteneh</h1>
+<h3 align="center">A Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
-🚀 **Aspiring Computer Engineer | Software Developer | Tech Enthusiast**
-
----
-
-### 🔥 About Me
-I'm a passionate **Electrical and Computer Engineering** student with a deep interest in **software development, machine learning, and open-source technologies**. I love building innovative projects and solving real-world problems with code.
-
-- 🔭 Currently working on: **Digital Library Management System & Online Examination System**
-- 🌱 Learning: **Machine Learning, Cloud Computing & Advanced Java**
-- 💡 Fun Fact: I once built a **large galvanic battery** to charge a phone! ⚡🔋
-- 👯 Looking to collaborate on: **Open-source projects & tech-driven solutions**
-- 📜 Certifications: **HP LIFE - Effective Leadership | UNICEF - Humanitarian Access**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tewodros-anteneh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/tewodros-anteneh?label=Followers&style=social" alt="Followers">
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-#### Programming Languages:
+- 💡 I enjoy exploring **new technologies** and developing **innovative** solutions.  
+- 🔭 Currently working on **Full-stack & Backend Development**  
+- 📫 Reach me at **tewodros.academic@gmail.com**  
+- 🌱 I’m learning **Machine Learning & DevOps**  
+- ⚡ Fun fact: **I love solving algorithmic problems!**  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### Tools & Technologies:
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-### 🌟 Featured Projects
-🚀 [**Digital Library Management System**](#) - A web-based platform for managing book issues, fines, and reports.
-
-📘 [**Online Examination System**](#) - A secure online exam portal with MCQs, time tracking, and automated submissions.
-
-💬 [**Java Chat Application**](#) - A simple chat application built using Java Socket Programming.
+### 💻 DevOps & Tools  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-![Tewodros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tewodros-Anteneh&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tewodros-anteneh&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tewodros-Anteneh&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewodros-anteneh/)
-[![Email](https://img.shields.io/badge/Email-tewodros.academic@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tewodros.academic@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tewodros-anteneh&theme=radical" alt="GitHub Streak">
+</p>
 
 ---
 
-🔥 **"Code, Innovate, and Inspire!"** 🔥
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tewodros.academic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+---
+
+⭐ **Star my repositories if you like my work!** ⭐  

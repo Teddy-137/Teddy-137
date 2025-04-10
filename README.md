@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tewodros Anteneh</h1>
-<h3 align="center">A Passionate Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tewodros-anteneh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">

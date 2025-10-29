@@ -1,17 +1,17 @@
-Hey! I'm Tewodros Anteneh. 👋
+### 👋 Hi, I'm **Tewodros Anteneh**
 
-I'm a Software developer from Ethiopia. 
+I'm a **Software Developer** from **Ethiopia**, passionate about building scalable, maintainable systems and solving real-world problems through code.
 
-I love mathematics and programming.
+💡 I love **mathematics**, **systems design**, and **backend development** — and I enjoy turning complex ideas into elegant, efficient software.
 
-I work mostly with **Django** and **FastAPI**, creating clean and scalable APIs. 
+🚀 About Me
+- 🧩 I’m currently exploring **distributed systems** and **cloud-native applications**.
+- 🌱 I love learning about **low-level programming** and **system design**.
+- 💬 Ask me about backend development, API design, or efficient problem-solving.
 
-I enjoy writing code in **Python**, **C++**, **Java**, **JavaScript**, **TypeScript**, **Lua**, and **Bash**.  
 
-I also use tools like **Linux**, **Docker**, and **Postman** daily. 
+ 🌐 Connect With Me
+- 🏠 Website: [showcase-website-pi.vercel.app](https://showcase-website-pi.vercel.app/)
+- 📫 Email: [tewodrosanteneh10@gmail.com](mailto:tewodrosanteneh10@gmail.com)
+- 💼 LinkedIn: [Tewodros Anteneh](https://www.linkedin.com/in/tewodros-anteneh-137304370/)
 
-You can find me on:
-* My website [link](https://showcase-website-pi.vercel.app/)
-- GitHub: [@teddy-137](https://github.com/teddy-137)
-- Email: [tewodrosanteneh@outlook.com](mailto:tewodrosanteneh@outlook.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tewodros-anteneh-137304370/)
